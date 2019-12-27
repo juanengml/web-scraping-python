@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<funcionarios>
+  <funcionario departamento = "TI">
+    <nome>Juan Manoel</nome>
+    <celular>(41) 992149181</celular>
+    <email>juanengml@gmail.com</email>
+   </funcionario>
+  <funcionario departamento = "TI">
+    <nome>Juan Manoel 3 </nome>
+    <celular>(41) 992149182</celular>
+    <email>juanenasdgml@gmail.com</email>
+   </funcionario>    
+</funcionarios>
