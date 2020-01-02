@@ -1,4 +1,4 @@
-# web-scraping-
+# web-scraping-python
 
 
 ## Mini projetos e testes usando as Libs e frameworks abaixo
